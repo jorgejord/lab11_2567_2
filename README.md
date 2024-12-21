@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ศุภเศรษฐ์ ไชยลังกา
+# STUDENT ID: 670612132
